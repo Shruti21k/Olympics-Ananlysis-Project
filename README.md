@@ -3,7 +3,7 @@
 ## Overview 🌐
 
 This project involves an Exploratory Data Analysis (EDA) on the Summer Olympics dataset, aiming to uncover valuable insights and trends within the historical data. The analysis covers a wide range of aspects related to athlete performances, event details, and other relevant factors.<br><br>
-**Note:** PDF file of the notebook is [here](https://github.com/Shruti21k/Olympics-Ananlysis-Project/blob/main/Olympics%20Analysis.pdf).
+**Note:** PDF file of the notebook is [here](https://github.com/Shruti21k/Olympics-Ananlysis-Project/blob/main/Olympics%20Analysis%20.pdf).
 
 ## Dataset 📂
 
